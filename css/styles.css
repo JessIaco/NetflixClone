@@ -75,7 +75,15 @@ footer {
   font-size: 14px;
 }
 
-#social a {
-  color:#e7e7e7;
+.profile-page {
+  color: #fff;
+}
 
+.profile-page .btn {
+  letter-spacing: 0.05rem;
+}
+
+.profile-page .action-buttons button {
+  font-size: 1.2rem;
+  letter-spacing: 2px;
 }
